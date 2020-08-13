@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mike Sinnema</h1>
-<h3 align="center">A mission focused software engineer from Arizona. Skilled in problem solving, providing unique solutions executed on time.</h3>
+<h3 align="center">Software Engineer skilled in JavaScript, React, NodeJS, and Python. Passionate about elegant code, breaking down complex problems to find solutions, collaborating with other developers, open source, creating front-end interfaces with the user in mind and problem solving. Over 17 years of professional experience in Computer Security/Information Assurance prior to coding, excellent ability to break down difficult problems into parts; Understand the problem, Make a plan, Execute the plan, Reflect on the plan, Optimize the plan, Deploy, and then Maintain the plan while contributing positively to a team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msinnema33" alt="msinnema33" /> </p>
 
